@@ -31,7 +31,8 @@
     "name": "avito200"
 }`
 
-![image](https://github.com/nllllibeth/avito_assignment/assets/73400470/31896a59-51e2-4540-8444-29a65c0d0e4f)
+![image](https://github.com/nllllibeth/avito_assignment/assets/73400470/02f6883c-97b4-4d3b-a7c9-0495713b78c3)
+
 
 
 ### 2. Удаление сегмента:
@@ -81,7 +82,7 @@
 
 `{"status": "ok"}`
 
-![image](https://github.com/nllllibeth/avito_assignment/assets/73400470/2ff93b61-07c8-4de2-aeb6-a753c47690e3)
+![image](https://github.com/nllllibeth/avito_assignment/assets/73400470/31896a59-51e2-4540-8444-29a65c0d0e4f)
 
 
 ### 4. Получение активных сегментов пользователя:
