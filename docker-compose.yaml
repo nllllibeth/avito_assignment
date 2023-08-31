@@ -1,0 +1,16 @@
+version: "3.5"
+
+services:
+  db:
+    container_name: db_container
+    ports:
+     - "5432:5432"
+    env_file:
+      - .env 
+    environment:
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_USER=user
+    image: postgres:15.4-alpine
+      
+    
+  
